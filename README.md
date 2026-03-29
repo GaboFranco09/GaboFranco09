@@ -1,33 +1,33 @@
 <h1 align="left">Gabriel Eduardo Franco Obando</h1>
 
 <p align="left">
-Estudiante de Administración de Sistemas Informáticos · Universidad Nacional de Colombia (Manizales)<br>
-Perfil híbrido: tecnología, sistemas y negocio
+Information Systems Administration Student · National University of Colombia (Manizales)<br>
+Hybrid profile: technology, systems and business
 </p>
 
 ---
 
-### Sobre mí
+### About me
 
-Soy un perfil enfocado en la administración y análisis de sistemas, con interés en entender cómo funcionan las soluciones tecnológicas de extremo a extremo.
+I am a systems-oriented profile focused on administration and analysis, with a strong interest in understanding how technological solutions work end-to-end.
 
-No me enfoco únicamente en escribir código.  
-Me interesa comprender, estructurar y tomar decisiones sobre sistemas que integren infraestructura, redes y negocio.
-
----
-
-### Enfoque
-
-- Redes y telecomunicaciones (Cisco, análisis, configuración)
-- Administración de sistemas (Linux, CLI)
-- Ciberseguridad (en formación)
-- Uso de IA como herramienta de productividad
-- Análisis de productos y oportunidades tecnológicas
-- Tecnología aplicada a negocio
+I am not focused only on writing code.  
+I am interested in understanding, structuring, and making decisions about systems that integrate infrastructure, networks, and business.
 
 ---
 
-### Tecnologías
+### Focus
+
+- Networks and telecommunications (Cisco, analysis, configuration)
+- Systems administration (Linux, CLI)
+- Cybersecurity (learning stage)
+- AI as a productivity tool
+- Product and technology analysis
+- Technology applied to business
+
+---
+
+### Technologies
 
 <p align="left">
 <img src="https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python" />
@@ -41,46 +41,46 @@ Me interesa comprender, estructurar y tomar decisiones sobre sistemas que integr
 
 ---
 
-### Proyectos
+### Projects
 
-- tap&chew → digitalización de pedidos  
-- nukleo.tech → cofundador  
-
----
-
-### Habilidades
-
-- Trabajo en equipo  
-- Comunicación y relaciones humanas  
-- Pensamiento analítico  
-- Compromiso y responsabilidad  
-- Identificación de oportunidades  
+- tap&chew → order digitalization system  
+- nukleo.tech → co-founder  
 
 ---
 
-### Actualmente aprendiendo
+### Skills
 
-- Administración de Redes avanzadas
-- Linux y administración de sistemas
-- Fundamentos de ciberseguridad
+- Teamwork  
+- Communication & interpersonal skills  
+- Analytical thinking  
+- Responsibility and commitment  
+- Opportunity identification  
+
+---
+
+### Currently learning
+
+- Advanced networking (IPv4/IPv6)
+- Linux and system administration
+- Cybersecurity fundamentals
 - TypeScript
 
 ---
 
-### Idiomas
+### Languages
 
-- Español: nativo  
-- Inglés: B1+  
-
----
-
-### Objetivo
-
-Desarrollarme en roles donde pueda administrar sistemas, participar en decisiones tecnológicas y conectar la tecnología con el negocio.
+- Spanish: Native  
+- English: B1+  
 
 ---
 
-### Contacto
+### Goal
+
+To grow into roles where I can manage systems, participate in technological decisions, and connect technology with business.
+
+---
+
+### Contact
 
 <p align="left">
 <a href="https://github.com/GaboFranco09">GitHub</a>
