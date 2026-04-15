@@ -44,7 +44,7 @@ I am interested in understanding, structuring, and making decisions about system
 ### Projects
 
 - tap&chew → order digitalization system  
-- nukleo.tech → co-founder  
+- cobent → founder  
 
 ---
 
